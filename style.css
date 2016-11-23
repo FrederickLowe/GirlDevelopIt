@@ -1,0 +1,71 @@
+h1, h2 {
+    color: red;
+}
+
+#ul1, #ul2 {
+    color: red;
+}
+
+strong, em {
+    color: black;
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.signUp {
+    color: red;
+}
+
+#twitter {
+    color: #00FFFF;
+}
+
+#city1, #city2 {
+    color: blue;
+}
+
+#tech1, #tech2 {
+    color: purple;
+}
+
+input[type='text'] {
+    background-color: pink;
+}
+
+#content {
+    padding: 100px;
+    margin: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    border-bottom: 5px solid red;
+}
+
+#logo {
+    position: relative;
+    right: -235px;
+}
+
+body {
+    background-color: pink;
+}
+
+#footer {
+    text-align: center;
+    border-top: 1px dashed pink;
+    padding: 10px;
+}
+
+#projects{
+  float: right;
+  background-color: pink;
+  border: 5px solid red;
+  padding: 40px;
+}
+
+#binary{
+  position: absolute;
+  bottom: -220px;
+  color: red;
+  z-index: -1;
+}
